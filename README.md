@@ -30,11 +30,26 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/vidstream-youtube-clone.git
+git clone https://github.com/Ashish22Gupta/YoutubeClone.git
 cd vidstream-youtube-clone
 
-### 1. Install Dependencies
+### 2. Install Dependencies
 
 npm install
-git clone https://github.com/yourusername/vidstream-youtube-clone.git
-cd vidstream-youtube-clone
+
+### 3. Set Up Environment Variables
+
+# Create .env file
+touch .env  # On Windows: type nul > .env
+Add the following to your .env file:
+
+VITE_YOUTUBE_API_KEY=your_youtube_api_key_here
+
+### 4. Install Dependencies
+
+npm install
+
+### 4. Build an Run
+
+npm run build
+npm run dev
