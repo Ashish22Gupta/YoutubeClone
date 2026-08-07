@@ -40,9 +40,7 @@ npm install
 ### 3. Set Up Environment Variables
 
 # Create .env file
-touch .env  # On Windows: type nul > .env
 Add the following to your .env file:
-
 VITE_YOUTUBE_API_KEY=your_youtube_api_key_here
 
 ### 4. Install Dependencies
