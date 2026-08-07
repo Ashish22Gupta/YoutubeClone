@@ -30,6 +30,11 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
+git clone https://github.com/yourusername/vidstream-youtube-clone.git
+cd vidstream-youtube-clone
+
+### 1. Install Dependencies
+
+npm install
 git clone https://github.com/yourusername/vidstream-youtube-clone.git
 cd vidstream-youtube-clone
