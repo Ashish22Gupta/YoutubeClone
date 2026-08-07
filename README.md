@@ -2,8 +2,6 @@
 
 A modern, responsive YouTube clone built with React, Vite, and Material-UI. Features a sleek dark theme, smooth animations with Framer Motion, and real YouTube API integration.
 
-![VidStream Banner](https://via.placeholder.com/1200x600/0a0a0a/ff0033?text=VidStream+-+YouTube+Clone)
-
 ## ✨ Features
 
 - 🎨 **Modern Dark Theme** - Sleek dark UI with glass morphism effects
