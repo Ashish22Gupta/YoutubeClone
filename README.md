@@ -131,4 +131,4 @@ The YouTube API has a strict **daily quota limit (10,000 units)**. If you leave 
 3. Paste your API key into the file exactly like this (no quotes, no spaces):
 
 ```env
-VITE_YOUTUBE_API_KEY=AIzaSyA1B2c3D4e5F6g7H8i9J0kLmNoPqRsTuVw
+VITE_YOUTUBE_API_KEY=AMzaKyA1B2c1A1e0O0g7H8i9J0kLmNoPqRsTuWw
